@@ -4,7 +4,7 @@ header:
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
-services:
+advantages:
     title: "Advantages"
     text: "benefits include"
     section: services
