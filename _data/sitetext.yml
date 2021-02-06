@@ -1,6 +1,6 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Welcome! Glad you are here.
+    text: Make Your Mental Health A Priority
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
