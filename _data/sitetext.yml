@@ -11,13 +11,13 @@ services:
     list:
       - title: "Life"
         desc: "Improved quality of life."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-user-friends #find more at https://fontawesome.com/icons
       - title: "Relationships"
         desc: "Improved personal and professional relationships."
-        icon: ..assets/img/omar-lopez-auEe5lKHZCw-unsplash.jpg      
+        icon: fas fa-heart      
       - title: "Community"
         desc: "Encouragment. Confidentiality. Support."
-        icon: fab fa-markdown
+        icon: fab fa-hands-helping
 
 portfolio:
     title: "Portfolio"
