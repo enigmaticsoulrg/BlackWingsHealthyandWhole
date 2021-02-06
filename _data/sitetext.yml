@@ -14,7 +14,7 @@ services:
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Relationships"
         desc: "Improved personal and professional relationships."
-        icon: fas fa-laptop       
+        icon: /omar-lopez-auEe5lKHZCw-unsplash.jpg       
       - title: "Community"
         desc: "Encouragment. Confidentiality. Support."
         icon: fab fa-markdown
