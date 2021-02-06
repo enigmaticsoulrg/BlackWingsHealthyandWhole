@@ -5,9 +5,9 @@ header:
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
-    title: "Advantages"
+    title: "Services"
     text: "benefits include"
-    section: advantages
+    section: services
     list:
       - title: "Life"
         desc: "Improved quality of life."
