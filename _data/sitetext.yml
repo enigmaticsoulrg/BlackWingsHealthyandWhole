@@ -97,7 +97,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Franchesca Virgil"
         role: "Co-founder / Mental Health Counselor"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/IMG_7909.heic
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -107,7 +107,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Makaia Wade"
         role: "Co-Founder / Mental Health Counselor"
-        image: assets/img/team/3.jpg
+        image: assets/img/IMG_0631.heic
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
