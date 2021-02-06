@@ -107,7 +107,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Makaia Wade"
         role: "Co-Founder / Mental Health Counselor"
-        image: assets/img/IMG_0631.heic
+        image: assets/img/kaia.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
