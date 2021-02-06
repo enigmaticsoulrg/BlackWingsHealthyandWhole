@@ -1,6 +1,6 @@
-nav:
-  - title: "Advantages"
-    section: advantages
+cnav:
+  - title: "Services"
+    section: services
 
   - title: "Portfolio"
     section: portfolio
