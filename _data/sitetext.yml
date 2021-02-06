@@ -17,7 +17,7 @@ services:
         icon: fas fa-heart      
       - title: "Community"
         desc: "Encouragment. Confidentiality. Support."
-        icon: fab fa-hands-helping
+        icon: fas fa-hands
 
 portfolio:
     title: "Portfolio"
