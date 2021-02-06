@@ -7,7 +7,7 @@ header:
 advantages:
     title: "Advantages"
     text: "benefits include"
-    section: services
+    section: advantages
     list:
       - title: "Life"
         desc: "Improved quality of life."
