@@ -1,5 +1,5 @@
 header:
-    title: Welcome! Glad you are here.
+    title: Welcome!
     text: Make Your Mental Health A Priority
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
