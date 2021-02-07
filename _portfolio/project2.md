@@ -6,7 +6,7 @@ alt: Take Time For You
 
 caption:
   title: Retreat
-  subtitle: New You
+  subtitle: Wholeness
   thumbnail: assets/img/ralph-ravi-kayden-6WWZwovAWa4-unsplash.jpg
 ---
 Retreats are reminders to relax, recharge, and restore self. 
