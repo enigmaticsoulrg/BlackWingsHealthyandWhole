@@ -1,5 +1,5 @@
 ---
-title: Project Pay It Forward - Clothes Drive
+title: Project Pay It Forward - Clothing Drive
 subtitle: “If you can’t pay it back, pay it forward.” — Catherine Ryan Hyde
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
@@ -13,6 +13,6 @@ We believe in giving back to those in need. So many people can benefit from clot
 
 {:.list-inline}
 - Date: January 2017
-- Client: Threads
+- Client: Threads 
 - Category: Giving Back
 
