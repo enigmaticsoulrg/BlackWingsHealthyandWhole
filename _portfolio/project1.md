@@ -14,5 +14,5 @@ We believe in giving back to those in need. So many people can benefit from clot
 {:.list-inline}
 - Date: January 2017
 - Client: Threads
-- Category: Illustration
+- Category: Giving Back
 
