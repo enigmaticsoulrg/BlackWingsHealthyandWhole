@@ -97,7 +97,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Franchesca Virgil"
         role: "Co-founder / Mental Health Counselor"
-        image: assets/img/team/IMG_7909-1.jpg
+        image: assets/img/IMG_7909-1.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
