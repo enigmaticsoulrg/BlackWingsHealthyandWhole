@@ -5,7 +5,7 @@ image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
+  title: Pay It Forward
   subtitle: Giving Back
   thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
 ---
@@ -13,6 +13,6 @@ We believe in giving back to those in need. So many people can benefit from clot
 
 {:.list-inline}
 - Date: January 2017
-- Client: Threads 
+- Client: Pay It Forward
 - Category: Giving Back
 
