@@ -6,7 +6,7 @@ alt: Shirts on a hanger
 
 caption:
   title: Threads
-  subtitle: Illustration
+  subtitle: Giving Back
   thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
 ---
 We believe in giving back to those in need. So many people can benefit from clothing. We encourage you to donate to your local charity, school, or youth center today. 
