@@ -5,14 +5,14 @@ image: assets/img/ralph-ravi-kayden-6WWZwovAWa4-unsplash.jpg
 alt: Take Time For You
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: Retreat
+  subtitle: New You
   thumbnail: assets/img/ralph-ravi-kayden-6WWZwovAWa4-unsplash.jpg
 ---
 Retreats are reminders to relax, recharge, and restore self. 
 
 {:.list-inline}
-- Date: January 2017
+- Date: January 2020
 - Client: Three Rs Retreat
 - Category: Retreat
 
