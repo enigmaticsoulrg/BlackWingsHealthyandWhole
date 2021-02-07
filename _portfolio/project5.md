@@ -7,7 +7,7 @@ alt:
 caption:
   title: Celebrate
   subtitle: Milestones
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  thumbnail: assets/img/thought-catalog-esbwNzjkKCg-unsplash.jpg
 ---
 Celebrate each milestone that you achieve. We are proud of you. Salute to your continued success. 
 
