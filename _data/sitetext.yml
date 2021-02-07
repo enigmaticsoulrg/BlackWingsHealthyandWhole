@@ -32,7 +32,7 @@ timeline:
     events:
       - title: "Our Humble Beginnings"
         year: "2009-2011"
-        desc: "We started with family and friends who needed help. This opens our eyes to how much mental health is vital to daily living"
+        desc: "We started with family and friends who needed help. This opened our eyes to how much mental health is vital to daily living"
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
@@ -44,7 +44,7 @@ timeline:
         align: right
       - title: "Impacting Lives "
         year: "2011-present"
-        desc: "We've grown from in person home meetings to reaching out an impacting lives globally."
+        desc: "We've grown from in-person home meetings to reaching out and impacting lives globally."
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left       
@@ -97,7 +97,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Franchesca Virgil"
         role: "Co-founder / Mental Health Counselor"
-        image: assets/img/team/IMG_7909.heic
+        image: assets/img/team/IMG_7909-1.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
