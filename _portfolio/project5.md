@@ -1,7 +1,7 @@
 ---
 title: Celebrate
 subtitle: Milestones
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/05-full.jpg
+image: assets/img/thought-catalog-esbwNzjkKCg-unsplash.jpg
 alt: 
 
 caption:
