@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Journaling
+subtitle: Expression
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/04-full.jpg
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
+  title: Journaling
+  subtitle: Expression
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+“A personal journal is an ideal environment in which to become. It is a perfect place for you to think, feel, discover, expand, remember, and dream. -Brad Wilcox"
 
 {:.list-inline}
 - Date: October 2019
-- Client: Lines
-- Category: Branding
+- Client: Journaling
+- Category: Expression
 
